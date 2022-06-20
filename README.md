@@ -7,4 +7,3 @@
 - 💬 Ask me about Developing iOS App.
 - 📫 How to reach me: nunutech4.0@gmail.com
 - ⚡ Fun fact: i learn programming at 28 years old in 2018.
--->
