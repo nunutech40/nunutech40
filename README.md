@@ -10,4 +10,4 @@
 
 If U want to support me for anything, you can buy me coffe here. \
 Saweria: https://saweria.co/nugraha17 \
-Buyme Coffe: https://www.buymeacoffee.com/rfajarnugrx 
+Buyme Coffe: https://www.buymeacoffee.com/nunutech401
