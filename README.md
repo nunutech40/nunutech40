@@ -2,7 +2,6 @@
 - 🧑‍💼 I'm Nunu Nugraha @nunutech40
 - 👨‍💻 I'm Mobile Developer
 - 🔭 I’m currently working on komerce.id
-- 🌱 I’m currently learning react js.
 - 🤔 I’m looking for help with writing a documentaion and readme in github.
 - 💬 Ask me about Developing iOS App, android app with Swift and Kotlin.
 - 📫 How to reach me: nunutech4.0@gmail.com
